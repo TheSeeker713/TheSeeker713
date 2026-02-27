@@ -15,6 +15,12 @@ I specialize in building modern web applications, engineering AI workflows, and 
 ---
 
 ## 🌐 Projects
+www.chronicleos.com
+www.thes33k3r.com
+www.digiartifact.com
+www.myceliainteractive.com
+www.alteredimagination.com
+www.workers.digiartifact.com
 - **Portfolio Website:** [jeremyrobards.com](http://www.jeremyrobards.com)  
 - **GitHub Repositories:** Full-stack apps, SQL integrations, Rust experiments, AI-assisted media workflows  
 - **Multimedia Work:** Interactive projects blending video, motion graphics, and AI  
