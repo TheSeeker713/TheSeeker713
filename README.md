@@ -21,7 +21,7 @@ www.digiartifact.com
 www.myceliainteractive.com
 www.alteredimagination.com
 www.workers.digiartifact.com
-- **Portfolio Website:** [jeremyrobards.com](http://www.jeremyrobards.com)  
+- **Portfolio Website:** [jeremyrobards.com](http://www.myceliainteractive.com)  
 - **GitHub Repositories:** Full-stack apps, SQL integrations, Rust experiments, AI-assisted media workflows  
 - **Multimedia Work:** Interactive projects blending video, motion graphics, and AI  
 
