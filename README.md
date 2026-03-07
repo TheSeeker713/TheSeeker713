@@ -20,7 +20,7 @@ I specialize in building modern web applications, engineering AI workflows, and 
 - [DigiArtifact](https://www.digiartifact.com)
 - [Mycelia Interactive](https://www.myceliainteractive.com)
 - [Altered Imagination](https://www.alteredimagination.com)
-- [Workers portal in the DigiArtifact workspace](https://www.workers.digiartifact.com)
+- [Workers portal in the DigiArtifact workspace](https://workers.digiartifact.com)
 - **Portfolio Website:** [Mycelia Interactive](http://www.myceliainteractive.com)  
 - **GitHub Repositories:** Full-stack apps, SQL integrations, Rust experiments, AI-assisted media workflows  
 - **Multimedia Work:** Interactive projects blending video, motion graphics, and AI  
