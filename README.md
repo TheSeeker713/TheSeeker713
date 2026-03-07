@@ -21,7 +21,7 @@ www.digiartifact.com
 www.myceliainteractive.com
 www.alteredimagination.com
 www.workers.digiartifact.com
-- **Portfolio Website:** [jeremyrobards.com](http://www.myceliainteractive.com)  
+- **Portfolio Website:** [Mycelia Interactive](http://www.myceliainteractive.com)  
 - **GitHub Repositories:** Full-stack apps, SQL integrations, Rust experiments, AI-assisted media workflows  
 - **Multimedia Work:** Interactive projects blending video, motion graphics, and AI  
 
@@ -29,7 +29,7 @@ www.workers.digiartifact.com
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/jeremyrobards](https://linkedin.com/in/jeremyrobards)  
-- Portfolio: [jeremyrobards.com](http://www.jeremyrobards.com)  
+- Portfolio: [The S33k3r Transmission Prototype](http://www.thes33k3r.com)  
 
 ---
 
