@@ -15,12 +15,12 @@ I specialize in building modern web applications, engineering AI workflows, and 
 ---
 
 ## 🌐 Projects
-www.chronicleos.com
-www.thes33k3r.com
-www.digiartifact.com
-www.myceliainteractive.com
-www.alteredimagination.com
-www.workers.digiartifact.com
+- [ChronicleOS Games - WIP](https://www.chronicleos.com)
+- [The S33k3r Transmission Prototype](https://www.thes33k3r.com)
+- [DigiArtifact](https://www.digiartifact.com)
+- [Mycelia Interactive](https://www.myceliainteractive.com)
+- [Altered Imagination](https://www.alteredimagination.com)
+- [Workers portal in the DigiArtifact workspace](https://www.workers.digiartifact.com)
 - **Portfolio Website:** [Mycelia Interactive](http://www.myceliainteractive.com)  
 - **GitHub Repositories:** Full-stack apps, SQL integrations, Rust experiments, AI-assisted media workflows  
 - **Multimedia Work:** Interactive projects blending video, motion graphics, and AI  
