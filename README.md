@@ -15,10 +15,13 @@ I specialize in building modern web applications, engineering AI workflows, and 
 ---
 
 ## 🌐 Projects
+- [Mycelia Interactive](https://www.myceliainteractive.com) This is the newest and probably my best work to date 3-7-2026
+- [Liminal Sin](https://www.myceliainteractive.com/ls) This is Mycelia Interactive's Flagship prototype showcasing what MI is really about. Imagine interacting with characters on a live tv show with your voice...
+
 - [ChronicleOS Games - WIP](https://www.chronicleos.com)
 - [The S33k3r Transmission Prototype](https://www.thes33k3r.com)
 - [DigiArtifact](https://www.digiartifact.com)
-- [Mycelia Interactive](https://www.myceliainteractive.com)
+
 - [Altered Imagination](https://www.alteredimagination.com)
 - [Workers portal in the DigiArtifact workspace](https://workers.digiartifact.com)
 - **Portfolio Website:** [Mycelia Interactive](http://www.myceliainteractive.com)  
