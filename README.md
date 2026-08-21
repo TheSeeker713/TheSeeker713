@@ -1,4 +1,1 @@
-Hi!
-I exist!
-I build things :)
-i can really build things. sometimes....
+We are going to do some really amazing things soon!!!
